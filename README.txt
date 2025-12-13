@@ -117,13 +117,14 @@ Automatic1111、Stable Diffusion、その他関連名称は
 
 作者
 
-作者：〇〇（任意で記載）
+作者：Yasu
 
-GitHub：〇〇（任意）
+GitHub：https://github.com/yasu1452
 
 制作：個人制作ツール
 
 更新履歴（例）
 
 v1.0
+
 初版公開（自動仕分け  D&D  Undo 対応）
